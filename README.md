@@ -1,0 +1,1 @@
+A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.Players can take turns as X and O, and the game automatically detects the winner, draw, or ongoing match. The design is clean, responsive, and easy to play on any device.
